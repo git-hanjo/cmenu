@@ -1,0 +1,5 @@
+# Dir/Files ausschließen:
+*.swp # vim swp-Files
+pkg/  # Package bin-Files *.a OS-spezifisch
+bin/  # ausführbare Files     OS-spezifisch 
+
