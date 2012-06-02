@@ -1,1 +1,2 @@
-bash-Script zur Git/Go-Unterstützung
+Console Script auf Go-Basis
+alias m="`. ./m`"
