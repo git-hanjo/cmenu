@@ -1,2 +1,7 @@
 Console Script auf Go-Basis
 alias m="`. ./m`"
+
+Installation:
+git clone ..
+cd repoDir
+make
